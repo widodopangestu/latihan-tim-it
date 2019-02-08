@@ -1,5 +1,7 @@
 import java.io.*;
 
+
+
 public class Fibbonacci{
     public static void main(String[] args) {
         System.out.println("input bilangan : ");
