@@ -1,6 +1,0 @@
-Nama = Fallah
-Umur = 18
-Tanggal Lahir = Fri Aug 04 00:00:00 ICT 2000
-Status = Lajang
-
-ini perubahan dari saya
